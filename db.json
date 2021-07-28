@@ -1,0 +1,298 @@
+{
+   "products":[
+      {
+         "id": "17",
+         "name": "Location Print Cotton Oversized T-shirt",
+         "salePrice": 14000000,
+         "oldPrice": 15500000,
+         "categoryId": "1",
+         "image":[
+            "https://assets.burberry.com/is/image/Burberryltd/F31B11B2-D4E8-4E8C-BF52-75C626F2842A.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/2233D95D-43B3-4389-B419-361BAF247C30.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/F8898728-27F3-4863-8672-25657BEC1759.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251"
+         ],
+         "desc": "beautiful hat",
+         "star": 5,
+         "isFreeShip": true,
+         "brandId": 3
+        },
+        {
+         "id": "18",
+         "name": "Logo Print Cotton T-shirt",
+         "salePrice": 8000000,
+         "oldPrice": 9500000,
+         "categoryId": "1",
+         "image":[
+            "https://assets.burberry.com/is/image/Burberryltd/6EE9AE33-2951-434A-AEA3-B6058E83FAF3.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/FC65FDA5-DA97-4C81-9551-6415F0D81E8B.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/5ab1a7dd2aa5e63c26dccc1593ea02cbd13e08d0.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+         ],
+         "desc": "beautiful hat",
+         "star": 5,
+         "isFreeShip": true,
+         "brandId": 3
+        },
+        
+        {
+         "id": "12",
+         "name": "Monogram Motif Topstitched Denim Baseball Cap",
+         "salePrice": 1700000,
+         "oldPrice": 2500000,
+         "categoryId": "3",
+         "image":[
+            "https://assets.burberry.com/is/image/Burberryltd/0D53E4EA-FED8-4B8D-AEE9-146010E40B54.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/30F50404-C053-4AE5-B586-4D8C0F10B794.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/3A3AB9B8-5F93-4920-AC90-5E294099CD41.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/103E3366-ADBF-41FD-85BB-A65E9A60F140.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251"
+         ],
+         "desc": "beautiful hat",
+         "star": 4,
+         "isFreeShip": true,
+         "brandId": 3
+        },
+        {
+         "id": "24",
+         "name": "Gilet Detail Cotton Gabardine Jacket",
+         "salePrice": 30000000,
+         "oldPrice": 32000000,
+         "categoryId": "2",
+         "image":[
+            "https://assets.burberry.com/is/image/Burberryltd/D8ED6C8E-7F08-47CD-A7C4-E32EB66DE0FB.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/E46FC8C9-99FD-42E1-A4FF-34AA8198FBFB.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/3D080304-E09A-4385-9E38-05CA1E9B6F9A.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/754B1FAC-1F3A-4B5C-9F13-A753E8177C29.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+         ],
+         "desc": "beautiful hat",
+         "star": 5,
+         "isFreeShip": true,
+         "brandId": 3
+        },
+        
+        {
+         "id": "14",
+         "name": "Check Cotton Canvas Jacquard Cap",
+         "salePrice": 12000000,
+         "oldPrice": 13500000,
+         "categoryId": "3",
+         "image":[
+            "https://assets.burberry.com/is/image/Burberryltd/DE40A3A9-310F-4199-BB58-7409104C3DEC.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/A73B5E2D-8DD6-4432-BF7B-BB02DA161B39.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/BB149DF2-E876-4E98-8616-BE70B84E34D2.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/5C0E8881-CF18-4C8A-9011-E420FC4FFF36.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251"
+         ],
+         "desc": "beautiful hat",
+         "star": 5,
+         "isFreeShip": true,
+         "brandId": 3
+        },
+        {
+         "id": "15",
+         "name": "Rubberised Cotton Visor with Detachable Zip Pocket",
+         "salePrice": 18000000,
+         "oldPrice": 19200000,
+         "categoryId": "3",
+         "image":[
+            "https://assets.burberry.com/is/image/Burberryltd/C61555E6-9611-42D2-B65F-D4D262CE54E4.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/648203CE-93D4-42F5-AD4D-713F76C64BCF.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/6783BC93-96A0-49FE-B868-7A9A8F68901B.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/ACC7B41A-71B1-496D-AA28-D878E936E0BE.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251"
+         ],
+         "desc": "beautiful hat",
+         "star": 5,
+         "isFreeShip": true,
+         "brandId": 3
+        },
+        {
+         "id": "16",
+         "name": "Rubberised Cotton Visor with Detachable Zip Pocket",
+         "salePrice": 17000000,
+         "oldPrice": 18500000,
+         "categoryId": "3",
+         "image":[
+            "https://assets.burberry.com/is/image/Burberryltd/6630265F-353F-4C96-9069-0AAC9881C2FA.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/E0A357D2-B4CA-4762-96E1-031E7224335B.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/0DC7F4D1-055D-4179-B845-B934A04537CA.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+         ],
+         "desc": "beautiful hat",
+         "star": 5,
+         "isFreeShip": true,
+         "brandId": 3
+        },
+      {
+         "id": "9",
+         "name": "Monogram Motif Vintage Check Cotton Baseball Cap",
+         "salePrice": 3000000,
+         "oldPrice": 3800000,
+         "categoryId": "3",
+         "image":[
+            "https://assets.burberry.com/is/image/Burberryltd/cc8551d331c7fe9ae467e9bf8d840ee02826ea64.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/8409292909437d4f5ebb110589c3a107be5e7fda.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/fec0fe708c85320e63f3d1c7444d14e8f803af2d.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251"
+         ],
+         "desc": "beautiful hat",
+         "star": 4,
+         "isFreeShip": true,
+         "brandId": 3
+        },{
+         "id": "10",
+         "name": "Monogram Motif Cotton Jersey Baseball Cap",
+         "salePrice": 4000000,
+         "oldPrice": 5000000,
+         "categoryId": "3",
+         "image":[
+            "https://assets.burberry.com/is/image/Burberryltd/DC0F5FD4-9F31-4EB7-83CE-D58BE4B15973.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/28F06BE4-6BAE-499C-B4EF-221B03B09C00.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/191A70E5-629C-49D5-9B62-DF07F1746681.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/F26A7B4B-5A3C-4BC6-8F3F-295F35DD958A.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+         ],
+         "desc": "beautiful hat",
+         "star": 4,
+         "isFreeShip": true,
+         "brandId": 3
+        },{
+         "id": "11",
+         "name": "Monogram Motif Cotton Linen Canvas Baseball Cap",
+         "salePrice": 2700000,
+         "oldPrice": 3300000,
+         "categoryId": "3",
+         "image":[
+            "https://assets.burberry.com/is/image/Burberryltd/48E7B090-3F02-4F9E-A66F-AE412D4CFD06.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/8B2AB210-2CC2-42DF-AC9A-8DC14146F5F0.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/2B645CAB-2B5B-4C19-9E5F-54BDA3D5DE0D.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/B57CCD15-7D53-4608-9038-53CB3170E271.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251"
+         ],
+         "desc": "beautiful hat",
+         "star": 4,
+         "isFreeShip": true,
+         "brandId": 3
+        },
+        {
+         "id": "19",
+         "name": "Nike Sportswear",
+         "salePrice": 919000,
+         "oldPrice": 1100000,
+         "categoryId": "1",
+         "image":[
+            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/a55c12a2-1cd7-4c67-a3b5-2e095d7571a4/sportswear-t-shirt-TfRQXk.png",
+            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/99e9ce90-02b9-4e47-bfd5-7bd718d783ce/sportswear-t-shirt-TfRQXk.png",
+            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/5be1a83b-5fe5-4445-bed0-5839c96d7e9d/sportswear-t-shirt-TfRQXk.png"
+         ],
+         "desc": "beautiful t T-shirt",
+         "star": 3,
+         "isFreeShip": true,
+         "brandId": 1
+        },
+        {
+         "id": "20",
+         "name": "Nike Dri-FIT Superset",
+         "salePrice": 818000,
+         "oldPrice": 950000,
+         "categoryId": "1",
+         "image":[
+            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/9855ea3e-0fb6-41d9-845f-18eee80ede40/dri-fit-superset-training-tank-DX8SHC.png",
+            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/bb16a645-fc93-4887-aba8-7f10c9355321/dri-fit-superset-training-tank-DX8SHC.png",
+            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/1ed92161-7127-474d-85f2-7778a7f4e902/dri-fit-superset-training-tank-DX8SHC.png",
+            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/92f9a54f-eb1a-42cd-8644-c84995d993cf/dri-fit-superset-training-tank-DX8SHC.png"
+         ],
+         "desc": "beautiful hat",
+         "star": 5,
+         "isFreeShip": true,
+         "brandId": 1
+        },
+        {
+         "id": "21",
+         "name": "Men's Fleece Pullover Hoodie",
+         "salePrice": 2499000,
+         "oldPrice": 2600000,
+         "categoryId": "2",
+         "image":[
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/a532ab62-f2f0-4fca-8c3c-48834e5a76c2/liverpool-fc-fleece-pullover-hoodie-94NTKq.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5,q_80/91a5779b-b1eb-44fa-82cb-879aaf977716/liverpool-fc-fleece-pullover-hoodie-94NTKq.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5,q_80/ba6b8067-c934-4be3-91ef-0bf2556b9ba3/liverpool-fc-fleece-pullover-hoodie-94NTKq.png"
+         ],
+         "desc": "beautiful hat",
+         "star": 5,
+         "isFreeShip": true,
+         "brandId": 1
+        },
+        {
+         "id": "22",
+         "name": "Nike Dri-FIT Superset",
+         "salePrice": 1748000,
+         "oldPrice": 1950000,
+         "categoryId": "2",
+         "image":[
+            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/75eb06d5-549c-4c15-8d81-23d639e518fa/essential-run-division-flash-running-jacket-pqKdFr.png",
+            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/78006730-e6b6-494a-a90b-55be3e2b3ce3/essential-run-division-flash-running-jacket-pqKdFr.png",
+            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/ac00e945-3bc1-4b4a-8fd1-566c89c50589/essential-run-division-flash-running-jacket-pqKdFr.png",
+            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/fd41ad5b-e11e-4c89-a6d1-74208f9adcda/essential-run-division-flash-running-jacket-pqKdFr.png"
+         ],
+         "desc": "beautiful hat",
+         "star": 5,
+         "isFreeShip": true,
+         "brandId": 1
+        },
+        {
+         "id": "23",
+         "name": "Pocket Detail Leather Biker Jacket",
+         "salePrice": 80000000,
+         "oldPrice": 85000000,
+         "categoryId": "2",
+         "image":[
+            "https://assets.burberry.com/is/image/Burberryltd/33FC2EC9-1298-411E-9788-18191FB5C803.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/4E8D90F4-3901-4D4D-B5E5-EBCDDC1A0643.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/28B9AB65-1730-4210-8AE5-9D0D74AFA210.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/3D3B41E0-1131-4A9F-BF9B-36E63DC39B7D.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+         ],
+         "desc": "beautiful hat",
+         "star": 5,
+         "isFreeShip": true,
+         "brandId": 3
+        },
+        {
+         "id": "13",
+         "name": "Horseferry Print Cotton Canvas Baseball Cap",
+         "salePrice": 4200000,
+         "oldPrice": 5000000,
+         "categoryId": "3",
+         "image":[
+            "https://assets.burberry.com/is/image/Burberryltd/DB641686-7F90-4D02-B535-4E7F7B07BC34.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/017AB269-CF18-45A9-9E22-30014F1EB641.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/E1C0E862-E59A-47B2-B952-FB121254DE7A.jpg?$BBY_V2_ML_1x1$&wid=1251&hei=1251",
+            "https://assets.burberry.com/is/image/Burberryltd/1078376F-9D3C-42B4-B99A-51A38EA85948.jpg?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+         ],
+         "desc": "beautiful hat",
+         "star": 4,
+         "isFreeShip": true,
+         "brandId": 3
+        }
+   ],
+   "brand":[
+      { 
+         "id": 1, 
+         "name": "Nike"
+      },
+      { 
+         "id": 2, 
+         "name": "Adidas"
+      },
+      { 
+         "id":3, 
+         "name": "Burberry"
+      }
+   ],
+   "categories": [
+      { 
+         "id": 1, 
+         "name": "Áo thun"
+      },
+      { 
+         "id": 2, 
+         "name": "Áo Jacket"
+      },
+      { 
+         "id": 3, 
+         "name": "Mũ"
+      }
+   ]
+ }
